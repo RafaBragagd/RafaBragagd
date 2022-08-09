@@ -1,7 +1,7 @@
 ### Bem-Vindo ao meu perfil! Me chamo Rafael 😄👋
 
 - 🖥 Atualmente estou desenvolvendo um laboratorio virtual na Unreal Engine 4
-- 🎓 Meu foco de estudo está sendo HTML, CSS, Django e Desenvolvimento de jogos
+- 🎓 Meu foco de estudo está sendo HTML, CSS, Javascript e Desenvolvimento de jogos
 - 🤔 Estou à procura de ajuda com meu desenvolvimento profissional
 - 😄 Pronomes: Ele/Dele
 
