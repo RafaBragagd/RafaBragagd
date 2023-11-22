@@ -1,9 +1,17 @@
 ### Bem-Vindo ao meu perfil! Me chamo Rafael 😄👋
 
-- 🖥 Atualmente estou desenvolvendo um laboratorio virtual na Unreal Engine 4
-- 🎓 Meu foco de estudo está sendo HTML, CSS, Javascript e Desenvolvimento de jogos
-- 🤔 Estou à procura de ajuda com meu desenvolvimento profissional
-- 😄 Pronomes: Ele/Dele
+- 💻 Atualmente trabalho como suporte em uma empresa de sistemas ERP
+- 🎓 Meu foco de estudo é frontend, animação e Desenvolvimento de jogos
+    - Frontend:
+      - HTML
+      - CSS
+      - Javascript
+          -React
+    -Animação e Desenvolvimento de jogos
+      -Unreal Engine 4
+      -Blender
+      -Quixel Mixer
+- 🤔 Busco continuar me desenvolvendo continuamente, assim como dar continuidade aos meus estudos ingressando ao mestrado.
 
 
 <div align="center">
