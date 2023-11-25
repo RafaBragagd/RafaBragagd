@@ -6,11 +6,11 @@
       - HTML
       - CSS
       - Javascript
-          -React
-    -Animação e Desenvolvimento de jogos
-      -Unreal Engine 4
-      -Blender
-      -Quixel Mixer
+          - React
+    - Animação e Desenvolvimento de jogos
+      - Unreal Engine 4
+      - Blender
+      - Quixel Mixer
 - 🤔 Busco continuar me desenvolvendo continuamente, assim como dar continuidade aos meus estudos ingressando ao mestrado.
 
 
@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/rafaels.braga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rbraga.gd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelbraga2b6aa7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://rafaeldasilvabraga4.artstation.com/" target="_blank"><img src="https://img.shields.io/badge/-Artstation-%2523E4405F?style=for-the-badge&logo=Artstation&logoColor=White&color=%23171717" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RafaBragagd/RafaBragagd/blob/output/github-contribution-grid-snake.svg)
  
 </div>
