@@ -2,16 +2,26 @@
 
 - 💻 Atualmente trabalho como suporte em uma empresa de sistemas ERP
 - 🎓 Meu foco de estudo é frontend, animação e Desenvolvimento de jogos
-    - Frontend:
-      - HTML
-      - CSS
-      - Javascript
-          - React
-    - Animação e Desenvolvimento de jogos
-      - Unreal Engine 4
-      - Blender
-      - Quixel Mixer
-- 🤔 Busco continuar me desenvolvendo continuamente, assim como dar continuidade aos meus estudos ingressando ao mestrado.
+
+## Abaixo apresento as ferramentas de estudos e os repositorios dos projetos separados por área
+### Frontend: HTML, CSS, Javascript/React
+
+- Site Go! Consultoria: https://github.com/RafaBragagd/GOConsultoria
+- Desafio Frontend Mentor: https://github.com/RafaBragagd/NewsHomepage
+- Site EatLog: https://github.com/RafaBragagd/Eatlog
+- Listagem de tarefas: https://github.com/RafaBragagd/todoAvancado
+- Animações usando CSS e Javascript: https://github.com/RafaBragagd/GOConsultoria
+- Microsoft Learn e Intensivo Kenzie: https://github.com/RafaBragagd/Frontend-Code-Testing
+
+### Animação e Desenvolvimento de jogos: Blender, Unreal Engine 4 e 5, Quixel Mixer
+- Jogo de Sobrevivencia HellHound: https://github.com/RafaBragagd/Hellhound
+- Curso Udemy - SWAT Combat: https://github.com/RafaBragagd/SWATCombat
+- Curso Alura - AutoVR: https://github.com/RafaBragagd/AutoVR_unv
+- Curso Alura - Chutebol: https://github.com/RafaBragagd/AutoVR_unv
+- Curso Alura - Arquitetura: https://github.com/RafaBragagd/ArquiteturaVR_unr
+
+<br><br><br>
+- 🤔 Busco continuar me desenvolvendo continuamente, assim como dar continuidade aos meus estudos.
 
 
 <div align="center">
